@@ -1,0 +1,5 @@
+*.DS_Store
+*/__pycache__/*
+march_madness_team_shot/object_detection/models/*
+*.avi
+*__pycache__*
